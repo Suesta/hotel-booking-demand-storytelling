@@ -1,6 +1,3 @@
-Pega esto como `README.md`:
-
-````markdown
 # Hotel Booking Demand Storytelling
 
 Data storytelling project focused on uncovering demand differences between an **urban hotel** and a **resort hotel** through visual analytics and narrative visualization.
@@ -93,8 +90,3 @@ The analysis is based on the **Hotel Booking Demand** dataset, a widely used dat
 ## Author
 
 **Víctor Suesta**
-
-```
-
-Si quieres, el siguiente paso es que te lo adapte todavía más a formato **portfolio de Data Science**, con un tono un poco más orientado a recruiters y GitHub profesional.
-```
